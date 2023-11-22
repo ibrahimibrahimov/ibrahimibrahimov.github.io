@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<embed src="/files/CV.pdf" type="application/pdf" />
+[View My CV](files/CV.pdf)
