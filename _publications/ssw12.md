@@ -11,5 +11,3 @@ Articulation-to-Speech Synthesis (ATS) focuses on convertingarticulatory biosign
 
 This work is continuation of our initial research presented in 1st WI2NS2 workshop!
 [Download paper here](https://www.isca-speech.org/archive/pdfs/ssw_2023/ibrahimov23_ssw.pdf)
-
-Recommended citation: Ibrahimov, I., Gosztolya, G., Csapo, T.G. (2023) Data Augmentation Methods on Ultrasound Tongue Images for Articulation-to-Speech Synthesis. Proc. 12th ISCA Speech Synthesis Workshop (SSW2023), 230-235, doi: 10.21437/SSW.2023-36
