@@ -6,4 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
+Here you can view my latest CV:
 [View My CV](../files/CV.pdf)
+
+Last update: November 2023
+
