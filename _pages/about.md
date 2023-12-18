@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage - Ibrahim Ibrahimov"
+title: "Welcome to My Silent Speech World!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to My Silent Speech World!
-=====
 Hello, and welcome my corner of the internet! I'm Ibrahim Ibrahimov, a first-year PhD student at Budapest University of Technology and Economics, working on Silent Speech Interfaces (SSI) with the guidance of Tamas Gabor Csapo and Gabor Gosztolya.
 
 About me
