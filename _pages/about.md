@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome my corner of the internet! I'm Ibrahim Ibrahimov, a first-year PhD student at Budapest University of Technology and Economics, working on Silent Speech Interfaces (SSI) with the guidance of Tamas Gabor Csapo and Gabor Gosztolya.
+Hello, and welcome my corner of the internet! I'm Ibrahim Ibrahimov, a first-year PhD student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en), working on Silent Speech Interfaces (SSI) with the guidance of Tamas Gabor Csapo and Gabor Gosztolya.
 
 About me
 ----
@@ -20,7 +20,7 @@ During my master’s studies, I really enjoyed and gained passion for the field 
 
 Research Interests:
 ----
-My research interests span speech synthesis, speech production, and data acquisition techniques geared towards advancing SSI. This webpage serves as a hub for all my publications and knowledge-sharing posts, providing a glimpse into my PhD journey.
+My research interests span speech synthesis, speech production, and data acquisition techniques in the field of SSI. This webpage serves as a hub for all my publications and knowledge-sharing posts, providing a glimpse into my PhD journey.
 
 Feel free to explore my works, and don't hesitate to reach out for collaborations or discussions.
 
