@@ -14,11 +14,11 @@ About me
 ----
 I earned my bachelor’s degree with honors in Computer Science at [the Academy of Public Administration under the President of the Republic of Azerbaijan](https://dia.edu.az/en/) in 2021. Following that, I pursued my master's degree with a 4.57/5 CGPA at [University of Szeged](https://u-szeged.hu/english), supported by the [Stipendium Hungaricum Scholarship](https://stipendiumhungaricum.hu). Currently, I am continuing my academic journey with the same scholarship as a PhD student.
 
-Passion Meets Research:
+Passion Meets Research
 ----
 During my master’s studies, I really enjoyed and gained passion for the field of speech technology and its application. That passion led me to my current supervisors, and together we explored data augmentation techniques on ultrasound tongue images as my master's thesis work titled "Silent Speech Interfaces: Applying Data Augmentation on Ultrasound Tongue Images". The outcomes of this work were presented at the [Speech Synthesis Workshop 2023](https://ssw2023.org) in Grenoble, France.
 
-Research Interests:
+Research Interests
 ----
 My research interests span speech synthesis, speech production, and data acquisition techniques in the field of SSI. This webpage serves as a hub for all my publications and knowledge-sharing posts, providing a glimpse into my PhD journey.
 
