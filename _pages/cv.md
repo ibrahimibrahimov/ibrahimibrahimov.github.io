@@ -9,5 +9,5 @@ author_profile: true
 Here you can view my latest CV:
 [View My CV](../files/IBRAHIM_IBRAHIMOV_CV.pdf)
 
-Last update: November 2023
+Last update: December 2023
 
