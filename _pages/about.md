@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome my corner of the internet! I'm Ibrahim Ibrahimov, a first-year PhD student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en), working on Silent Speech Interfaces (SSI) with the guidance of [Tamás Gábor Csapó](http://speechlab.tmit.bme.hu/csapo/?l=en) and [Gábor Gosztolya](https://scholar.google.com/citations?user=kNDBQ_oAAAAJ&hl=en&oi=ao).
+Hello, and welcome my corner of the internet! I'm Ibrahim Ibrahimov, a first-year PhD student at [Speech Technology and Smart Interactions Laboratory](http://smartlab.tmit.bme.hu/index-en), [Department of Telecommunications and Media Informatics](https://www.tmit.bme.hu/?language=en), [Budapest University of Technology and Economics](https://www.bme.hu/?language=en), working on Silent Speech Interfaces (SSI) with the guidance of [Tamás Gábor Csapó](http://speechlab.tmit.bme.hu/csapo/?l=en) and [Gábor Gosztolya](https://scholar.google.com/citations?user=kNDBQ_oAAAAJ&hl=en&oi=ao).
 
 About me
 ----
