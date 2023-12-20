@@ -1,4 +1,4 @@
-t# Welcome to Jekyll!
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Ibrahim Ibrahimov"
 title_separator          : "-"
 name                     : &name "Ibrahim Ibrahimov"
-description              : &description "Personal website containing my academic publications & blog"
+description              : &description "Personal website"
 url                      : https://ibrahimibrahimov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ibrahimibrahimov/ibrahimibrahimov.github.io"
+repository               : "ibrahimibrahimov//ibrahimibrahimov.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "custom" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "G-D1XM090D1B"
 
@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Ibrahim Ibrahimov"
-  avatar           : "ibrahim.png"
+  pronouns         : 
+  avatar           : "profile.jpg"
   bio              : "<b>PhD Student</b></br>Budapest University of Technology and Economics"
   location         : "Budapest, Hungary"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=BGZGdpUAAAAJ&hl=en"
-  email            : "ibrahim@tmit.bme.hu"
+  googlescholar    : "https://scholar.google.com/citations?user=l3r5twcAAAAJ&hl=en"
+  email            : "tg399@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,21 +97,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ibrahimkhaliloglu"
+  github           : "tangemicioglu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ibrahimkhaliloglu"
-  orcid            : "http://orcid.org/0009-0009-3924-4663"
+  linkedin         : "tangemicioglu"
+  mastodon         : "https://hci.social/@tangemicioglu"
+  orcid            : "0000-0001-9324-4431"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ibrahimov1604"
-  X                : "ibrahimov1604"
+  twitter          : "tangemicioglu"
   vine             :
   weibo            :
   xing             :
@@ -176,13 +177,16 @@ kramdown:
 
 # Collections
 collections:
+  news:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -198,10 +202,9 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
-      comments: true
-      share: true
+      # comments: true
+      # share: true
       related: true
   # _pages
   - scope:
@@ -209,42 +212,40 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      inline: true
   # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+   
+
+news_limit: 10
 
 # Sass/SCSS
 sass:
