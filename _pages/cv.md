@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "Other"
-permalink: /other/
+title: "CV"
+permalink: /cv/
 author_profile: true
 ---
 {% include base_path %}
