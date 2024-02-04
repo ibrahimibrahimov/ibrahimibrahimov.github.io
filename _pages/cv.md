@@ -1,7 +1,7 @@
 ---
 layout: splash
-title: "CV"
-permalink: /cv/
+title: "Other"
+permalink: /other/
 author_profile: true
 ---
 {% include base_path %}
@@ -9,5 +9,10 @@ author_profile: true
 Here you can view my latest CV:
 [View My CV](../files/IBRAHIM_IBRAHIMOV_CV.pdf)
 
-Last update: December 2023
+WINS 2024 presentation:
+[View the presentation](../files/WINS2024_pres_v4.pdf)
+
+
+
+Last update: February 2024
 
